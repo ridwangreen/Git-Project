@@ -1,1 +1,1 @@
-<?php echo 'AJA AH'; ?>
+<?php echo 'GET DATABASE'; ?>
